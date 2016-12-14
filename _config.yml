@@ -17,6 +17,10 @@ analytics:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cbf16da-faf6-4938-ad32-19c2bf73ee7d.png
 name: nodatingallowed
+navigation:
+  - name: Who are we?
+    id: e1b54693-2d1d-497b-a543-b2dfada45ca6
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ca8ea28-093f-4f8b-8621-2081ba776cfa.ico
 title: no dating allowed
