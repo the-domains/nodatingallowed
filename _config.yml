@@ -1,0 +1,30 @@
+typography_spectrum: 0.7446890159044415
+color:
+  brandStrength: 0.4885533747728914
+  lightness: 0.5927815877366811
+  saturation: 0.8394907684996724
+  rhythmicContrast: 0.9431089288555086
+  brandColors:
+    - '#000218'
+    - '#F6B242'
+    - '#EF6F65'
+    - '#FFFFFF'
+    - '#3C2D20'
+github: true
+layout_spectrum: 0.014621709939092398
+analytics:
+  google: UA-88956284-1
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cbf16da-faf6-4938-ad32-19c2bf73ee7d.png
+name: nodatingallowed
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ca8ea28-093f-4f8b-8621-2081ba776cfa.ico
+title: no dating allowed
+content: []
+description: >-
+  Out of a long relationship? Thinking of ending one?   What's next for you? Who
+  with? Maybe you know and maybe not... either way, you're in the right place
+purpose:
+  - type: contact
+    url: 'mailto:info@nodatingallowed.com'
+    label: Connect with us!
