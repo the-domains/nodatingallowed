@@ -4,9 +4,9 @@
         <description><![CDATA[no dating allowed]]></description>
         <link>https://thegrid.ai/nodatingallowed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Dec 2016 23:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2016 23:24:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nodatingallowed/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Dec 2016 23:07:03 GMT</pubDate>
+        <pubDate>Wed, 14 Dec 2016 23:24:17 GMT</pubDate>
         <item>
             <title><![CDATA[upcoming events]]></title>
             <description><![CDATA[<article><h1>upcoming events</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a872c35-f020-48a5-804c-22cab88fa4f7.jpg"></article>]]></description>
@@ -29,11 +29,11 @@
             <pubDate>Wed, 14 Dec 2016 05:39:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Welcome!]]></title>
-            <description><![CDATA[<article><h1>Welcome!</h1><p>If you’re here, it’s because you want to be. Or you need to be. Or both. (Or neither?)</p></article>]]></description>
+            <title><![CDATA[welcome!]]></title>
+            <description><![CDATA[<article><h1>welcome!</h1><p>If you’re here, it’s because you want to be. Or you need to be. Or both. (Or neither?)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/814cc2d9-2f1a-4b0d-8732-089b4de89b7e.jpg"></article>]]></description>
             <link>https://thegrid.ai/nodatingallowed/welcome/index.html</link>
             <guid isPermaLink="false">7b63b1f8-de35-4c8e-a2b5-2681676b59ed</guid>
-            <pubDate>Wed, 14 Dec 2016 04:25:00 GMT</pubDate>
+            <pubDate>Wed, 14 Dec 2016 23:24:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
