@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-15T01:21:28.402Z'
-datePublished: '2016-12-15T01:21:29.470Z'
+dateModified: '2016-12-15T01:23:28.398Z'
+datePublished: '2016-12-15T01:23:29.759Z'
 title: n.d.a. in Austin - New Year's Day 1-5pm
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-15-nda-in-austin-new-years-day-1-5pm.md
 starred: false
 datePublishedOriginal: '2016-12-15T01:21:29.470Z'
-sourcePath: _posts/2016-12-15-nda-in-austin-new-years-day-1-5pm.md
 url: nda-in-austin-new-years-day-1-5pm/index.html
 _type: Article
 
