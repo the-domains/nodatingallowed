@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We are folks who’ve been there and also wondered “what’s next?”… we know it’s
   better to figure it out together… and that you’re right where you need to be.
-dateModified: '2016-12-14T05:39:56.502Z'
-datePublished: '2016-12-14T05:39:57.136Z'
+dateModified: '2016-12-15T01:23:28.398Z'
+datePublished: '2016-12-15T01:23:29.670Z'
 title: ''
 author: []
 publisher: {}
